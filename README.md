@@ -1,4 +1,5 @@
-# webappsec-overview
+# Web Application Security
+
 Documentation, link collection about different WebAppSec solutions
 
 - [Web Application Firewalls](firewall.md)
